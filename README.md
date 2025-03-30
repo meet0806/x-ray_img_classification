@@ -20,7 +20,7 @@ This project is a web-based application for classifying chest X-ray images as ei
 
 ---
 
-## Setup Instructions
+## Setup Instructions (Local)
 
 ### 1. Clone the Repository
 ```bash
