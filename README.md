@@ -11,6 +11,8 @@ This project is a web-based application for classifying chest X-ray images as ei
 - Get predictions (e.g., "Pneumonia" or "Normal") from the backend.
 - Fully containerized using Docker for easy deployment.
 
+![Demo](https://github.com/meet0806/x-ray_img_classification/blob/master/Screenshot%202025-03-30%20164752.png)
+
 ---
 
 ## Prerequisites
