@@ -1,0 +1,8 @@
+FastAPI
+uvicorn
+torch
+torchvision
+Pillow
+numpy
+torchmetrics
+python-multipart

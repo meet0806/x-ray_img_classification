@@ -1,0 +1,44 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# FastAPI specific
+*.log
+*.sqlite3
+*.db
+
+# Virtual environment
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
