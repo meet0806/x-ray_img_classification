@@ -24,8 +24,8 @@ This project is a web-based application for classifying chest X-ray images as ei
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd img_classification_proj
+git clone --recurse-submodules <main-repo-url>
+cd x-ray_img_classification
 ```
 
 ### 2. Build and Run the Containers
