@@ -1,0 +1,3 @@
+[submodule "xray-classification-frontend"]
+	path = xray-classification-frontend
+	url = https://github.com/meet0806/xray-classification-frontend.git
